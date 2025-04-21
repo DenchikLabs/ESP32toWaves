@@ -176,6 +176,10 @@ No warranties are given. The license may not give you all of the permissions nec
 
 Full license text available at: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
+## Disclaimer
+
+You use this software at your own risk. The author provides no warranty, express or implied, and is not responsible for any damage, loss, or legal issues that may arise from its use. This includes (but is not limited to) malfunction of connected systems, data loss, unintended command execution, or hardware failure. Ensure you test thoroughly in a safe environment before deploying in production.
+
 ## Contributing
 
 Have ideas, improvements, or bug fixes?  
